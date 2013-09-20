@@ -1,7 +1,4 @@
-/* mp3server.c
- * CS423-MP3
- * NETID: herga2, rmohiud2
- * The file which implements all the functionality required in the MP3
+/* udpserver.c
  */
 #include <fcntl.h>
 #include <stdio.h>

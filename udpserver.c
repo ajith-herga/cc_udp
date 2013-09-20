@@ -1,7 +1,4 @@
-/* mp3server.c
- * CS423-MP3
- * NETID: herga2, rmohiud2
- * The file which implements the functionaliy of RFC 2001
+/* udpserver.c
  */
 #include <fcntl.h>
 #include <time.h>
